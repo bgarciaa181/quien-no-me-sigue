@@ -1,0 +1,8 @@
+# Tus datos personales (no subirlos nunca)
+*.zip
+*.json
+*.csv
+
+# Python
+__pycache__/
+*.pyc
